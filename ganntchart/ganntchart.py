@@ -30,7 +30,7 @@ class GanntChart(object):
         self.svg += "<line fill=\"none\" stroke=\"#000000\" stroke-width=\"3\"  x1=\"40\" y1=\"" + str(
             self.height) + "\" x2=\"" + str(self.width + 100) + "\" y2=\"" + str(self.height) + "\" id=\"\"/>\n"
 
-    def add_job(self, job_name, machine: str, starting_time: int, processing_time: int):
+    def add_job(self, job_name:str, machine: int, starting_time: int, processing_time: int):
         self.svg += "<rect width=\"" + str(
             self.scale * processing_time) + "\" height=\"60\" style=\"fill:#FFFFFF;fill-opacity=1;stroke-width:1;\"  stroke=\"#000000 \" x=\"" \
                     + str(starting_time * self.scale + 40) + "\" y=\"" + str(25 + (machine - 1) * 80) + "\"  />\n\n"
