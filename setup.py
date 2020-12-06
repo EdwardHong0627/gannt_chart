@@ -9,7 +9,7 @@ setup(
     author_email='edwardboy0627@gmail.com',
     license='MIT',
     zip_safe=False,
-    packages=["ganntchart"],
+    packages=['ganntchart'],
     keywords=['ganntchart', "scheduling"],
     classifiers=[
         'Development Status :: 5 - Production/Stable',

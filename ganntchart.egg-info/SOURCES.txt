@@ -1,6 +1,8 @@
 README.md
 setup.cfg
 setup.py
+ganntchart/__init__.py
+ganntchart/ganntchart.py
 ganntchart.egg-info/PKG-INFO
 ganntchart.egg-info/SOURCES.txt
 ganntchart.egg-info/dependency_links.txt
