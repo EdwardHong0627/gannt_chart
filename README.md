@@ -2,7 +2,7 @@
 `$ pip install git+https://github.com/EdwardHong0627/gannt_chart`
 
 # Importing
-`from gannt.gannt import GanntChart`  
+`from ganntchart.ganntchart import GanntChart`  
 # Usage
 *  First of all, we need to initialize the blank gannt chart 
 with specified number of machine, total length of gannt chart, and the sale size.\
