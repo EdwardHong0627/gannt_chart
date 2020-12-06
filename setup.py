@@ -1,11 +1,11 @@
-from setuptools import setup,find_packages
+from setuptools import setup, find_packages
 
 setup(
     name='ganntchart',
     version='1.0',
     description='Draw Gannt Chart with svg format',
     url='https://github.com/EdwardHong0627/gannt_chart',
-    author='Edward Hong',
+    author='EdwardHong0627',
     author_email='edwardboy0627@gmail.com',
     license='MIT',
     zip_safe=False,

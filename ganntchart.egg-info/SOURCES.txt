@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+ganntchart.egg-info/PKG-INFO
+ganntchart.egg-info/SOURCES.txt
+ganntchart.egg-info/dependency_links.txt
+ganntchart.egg-info/not-zip-safe
+ganntchart.egg-info/top_level.txt
