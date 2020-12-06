@@ -3,8 +3,11 @@
 with specified number of machine, total length of gannt chart, and the sale size.\
 \
 i.e.,
-`result = GanntChart(num_of_machine=2, total_length=50, scale=20)
-`
+```
+result = GanntChart.GanntChart(num_of_machine=2, 
+                               total_length=50, 
+                              scale=20)
+```
 \
 The statement above means that result is an instance of object GanntChart.
 

@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 
 setup(
     name='ganntchart',
@@ -8,9 +8,9 @@ setup(
     author='Edward Hong',
     author_email='edwardboy0627@gmail.com',
     license='MIT',
-    packages=['ganntchart'],
     zip_safe=False,
-    keywords=['gannt_chart', "scheduling"],
+    packages=find_packages(),
+    keywords=['ganntchart', "scheduling"],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: MIT License',

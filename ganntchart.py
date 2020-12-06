@@ -2,21 +2,14 @@ import os
 import sys
 
 
-class GanntChart:
-    def __init__(self):
-        self.svg = ""
-        self.height = 0
-        self.width = 0
-        self.scale = 0
-        self.num_of_machine = 0
-        self.num_of_jobs = 0
-        self.font_size = 20
-
-    def init(self, num_of_machine: int, total_length: int, scale: int):
-        self.num_of_machine = num_of_machine
+class GanntChart(object):
+    def __init__(self, num_of_machine: int, total_length: int, scale: int):
         self.height = num_of_machine * 80 + 80
         self.width = total_length * scale
         self.scale = scale
+        self.num_of_machine = num_of_machine
+        self.num_of_jobs = 0
+        self.font_size = 20
         self.svg = "<svg width=\"" + str(self.width + 100) + "\" height=\"" + str(
             self.height + 100) + "\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n"
         self.svg += "<line fill=\"none\" stroke=\"#000000\" stroke-width=\"3\"  x1=\"40\" y1=\"10\" x2=\"40\" y2=\"" + str(
