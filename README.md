@@ -7,9 +7,8 @@ i.e.,
 `
 \
 The statement above means that result is an instance of object GanntChart.
-\
 
-2. Second we can call the add_job function to append a job infomation:\
+2. Second we can call the add_job function to append a job infomation:
 ```
 result.add_job(job_name='J_1', 
                machine=0, 
