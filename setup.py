@@ -4,7 +4,7 @@ setup(
     name='ganntchart',
     version='1.0',
     description='Draw Gannt Chart with svg format',
-    url='https://github.com/Henry0526/ascii_image',
+    url='https://github.com/EdwardHong0627/gannt_chart',
     author='Edward Hong',
     author_email='edwardboy0627@gmail.com',
     license='MIT',
