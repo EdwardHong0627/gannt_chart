@@ -1,6 +1,7 @@
 # Installation
-`$ pip install git+https://github.com/EdwardHong0627/gannt_chart`
-
+`$ pip install git+https://github.com/EdwardHong0627/gannt_chart`  
+or  
+`pip install ganntchart`
 # Importing
 `from ganntchart.ganntchart import GanntChart`  
 # Usage

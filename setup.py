@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ganntchart',
-    version='1.1.1',
+    version='1.1.2',
     description='Draw Gannt Chart with svg format',
     url='https://github.com/EdwardHong0627/gannt_chart',
     author='EdwardHong0627',
