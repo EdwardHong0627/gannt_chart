@@ -1,5 +1,4 @@
 README.md
-setup.cfg
 setup.py
 ganntchart/__init__.py
 ganntchart/ganntchart.py
