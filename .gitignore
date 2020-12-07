@@ -1,3 +1,4 @@
 .pypirc
-.idea
+.idea/*
 setup.cfg
+.idea
