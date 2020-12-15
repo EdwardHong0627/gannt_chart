@@ -5,7 +5,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 setup(
     name='ganntchart',
-    version='1.2.2',
+    version='1.2.3',
     description='Draw Gannt Chart with svg format',
     url='https://github.com/EdwardHong0627/gannt_chart',
     author='EdwardHong0627',

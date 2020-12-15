@@ -2,3 +2,4 @@
 .idea/*
 setup.cfg
 .idea
+.pytest_cache
