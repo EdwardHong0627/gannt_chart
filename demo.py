@@ -1,23 +1,11 @@
 from gannt_chart.ganntchart import GanntChart
-from random import randint
 
+svg = GanntChart(1, 30, 20)
 
-class Job:
-    def __init__(self, name='test', starting_time=0, processing=5, machine=1):
-        self.name = name
-        self.starting_time = starting_time
-        self.processing_time = processing
-        self.machine = machine
+starting_time = [0, 3, 8]
+processing_time = [3, 5, 10]
 
+for k, v in enumerate(starting_time):
+    svg.add_job("J".join(str(k)), 1, v, processing_time[k], fill='#00FF00', stroke='#FF00FF')
 
-job_list = []
-
-for i in range(5):
-    job = Job('J'.join(str(i)), randint(0, 25), randint(1, 5))
-    job_list.append(job)
-file = GanntChart(1, 50, 30)
-
-for j in job_list:
-    file.add_job(j.name, j.machine, j.starting_time, j.processing_time, fill='red')
-
-file.save_to_file('demo')
+svg.save_to_file("demo")

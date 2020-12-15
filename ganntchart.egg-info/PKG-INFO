@@ -1,12 +1,39 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: ganntchart
-Version: 1.1.3
+Version: 1.2.2
 Summary: Draw Gannt Chart with svg format
 Home-page: https://github.com/EdwardHong0627/gannt_chart
 Author: EdwardHong0627
 Author-email: edwardboy0627@gmail.com
 License: MIT
-Description: UNKNOWN
+Description: # Installation
+        `$ pip install git+https://github.com/EdwardHong0627/gannt_chart`  
+        or  
+        `pip install ganntchart`
+        # Importing
+        `from ganntchart.ganntchart import GanntChart`  
+        # Usage
+        *  First of all, we need to initialize the blank gannt chart 
+        with specified number of machine, total length of gannt chart, and the sale size.\
+        \
+        i.e.,
+        ```
+        result =GanntChart(num_of_machine=2, 
+                           total_length=50, 
+                           scale=20)
+        ```
+        \
+        The statement above means that result is an instance of object GanntChart.
+        
+        * Second we can call the add_job function to append a job infomation:
+        ```
+        result.add_job(job_name='J_1', 
+                       machine=0, 
+                       starting_time=0, 
+                       processing_time=5)
+        ```
+        * Finally, we can call save_to_file function to save our Gannt chart as a svg_file  
+        `result.save_to_file(file_name='result')`
 Keywords: ganntchart,scheduling
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
@@ -16,3 +43,4 @@ Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
