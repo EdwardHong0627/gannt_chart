@@ -1,0 +1,380 @@
+<svg width="1350" height="340" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<line fill="none" stroke="#000000" stroke-width="3"  x1="40" y1="10" x2="40" y2="240" />
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="20" font-family="serif" text-anchor="left" xml:space="preserve" font-weight="bold"  x="5" y="60" >M1</text>
+
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="20" font-family="serif" text-anchor="left" xml:space="preserve" font-weight="bold"  x="5" y="140" >M2</text>
+
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="540" y="265" >10</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="540" y1="235" x2="540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="1040" y="265" >20</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="1040" y1="235" x2="1040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="1540" y="265" >30</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="1540" y1="235" x2="1540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="2040" y="265" >40</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="2040" y1="235" x2="2040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="2540" y="265" >50</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="2540" y1="235" x2="2540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="3040" y="265" >60</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="3040" y1="235" x2="3040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="3540" y="265" >70</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="3540" y1="235" x2="3540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="4040" y="265" >80</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="4040" y1="235" x2="4040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="4540" y="265" >90</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="4540" y1="235" x2="4540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="5040" y="265" >100</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="5040" y1="235" x2="5040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="5540" y="265" >110</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="5540" y1="235" x2="5540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="6040" y="265" >120</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="6040" y1="235" x2="6040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="6540" y="265" >130</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="6540" y1="235" x2="6540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="7040" y="265" >140</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="7040" y1="235" x2="7040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="7540" y="265" >150</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="7540" y1="235" x2="7540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="8040" y="265" >160</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="8040" y1="235" x2="8040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="8540" y="265" >170</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="8540" y1="235" x2="8540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="9040" y="265" >180</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="9040" y1="235" x2="9040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="9540" y="265" >190</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="9540" y1="235" x2="9540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="10040" y="265" >200</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="10040" y1="235" x2="10040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="10540" y="265" >210</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="10540" y1="235" x2="10540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="11040" y="265" >220</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="11040" y1="235" x2="11040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="11540" y="265" >230</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="11540" y1="235" x2="11540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="12040" y="265" >240</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="12040" y1="235" x2="12040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="12540" y="265" >250</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="12540" y1="235" x2="12540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="13040" y="265" >260</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="13040" y1="235" x2="13040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="13540" y="265" >270</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="13540" y1="235" x2="13540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="14040" y="265" >280</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="14040" y1="235" x2="14040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="14540" y="265" >290</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="14540" y1="235" x2="14540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="15040" y="265" >300</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="15040" y1="235" x2="15040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="15540" y="265" >310</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="15540" y1="235" x2="15540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="16040" y="265" >320</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="16040" y1="235" x2="16040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="16540" y="265" >330</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="16540" y1="235" x2="16540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="17040" y="265" >340</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="17040" y1="235" x2="17040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="17540" y="265" >350</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="17540" y1="235" x2="17540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="18040" y="265" >360</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="18040" y1="235" x2="18040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="18540" y="265" >370</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="18540" y1="235" x2="18540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="19040" y="265" >380</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="19040" y1="235" x2="19040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="19540" y="265" >390</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="19540" y1="235" x2="19540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="20040" y="265" >400</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="20040" y1="235" x2="20040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="20540" y="265" >410</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="20540" y1="235" x2="20540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="21040" y="265" >420</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="21040" y1="235" x2="21040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="21540" y="265" >430</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="21540" y1="235" x2="21540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="22040" y="265" >440</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="22040" y1="235" x2="22040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="22540" y="265" >450</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="22540" y1="235" x2="22540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="23040" y="265" >460</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="23040" y1="235" x2="23040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="23540" y="265" >470</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="23540" y1="235" x2="23540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="24040" y="265" >480</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="24040" y1="235" x2="24040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="24540" y="265" >490</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="24540" y1="235" x2="24540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="25040" y="265" >500</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="25040" y1="235" x2="25040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="25540" y="265" >510</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="25540" y1="235" x2="25540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="26040" y="265" >520</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="26040" y1="235" x2="26040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="26540" y="265" >530</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="26540" y1="235" x2="26540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="27040" y="265" >540</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="27040" y1="235" x2="27040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="27540" y="265" >550</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="27540" y1="235" x2="27540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="28040" y="265" >560</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="28040" y1="235" x2="28040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="28540" y="265" >570</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="28540" y1="235" x2="28540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="29040" y="265" >580</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="29040" y1="235" x2="29040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="29540" y="265" >590</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="29540" y1="235" x2="29540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="30040" y="265" >600</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="30040" y1="235" x2="30040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="30540" y="265" >610</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="30540" y1="235" x2="30540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="31040" y="265" >620</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="31040" y1="235" x2="31040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="31540" y="265" >630</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="31540" y1="235" x2="31540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="32040" y="265" >640</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="32040" y1="235" x2="32040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="32540" y="265" >650</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="32540" y1="235" x2="32540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="33040" y="265" >660</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="33040" y1="235" x2="33040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="33540" y="265" >670</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="33540" y1="235" x2="33540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="34040" y="265" >680</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="34040" y1="235" x2="34040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="34540" y="265" >690</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="34540" y1="235" x2="34540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="35040" y="265" >700</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="35040" y1="235" x2="35040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="35540" y="265" >710</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="35540" y1="235" x2="35540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="36040" y="265" >720</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="36040" y1="235" x2="36040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="36540" y="265" >730</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="36540" y1="235" x2="36540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="37040" y="265" >740</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="37040" y1="235" x2="37040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="37540" y="265" >750</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="37540" y1="235" x2="37540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="38040" y="265" >760</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="38040" y1="235" x2="38040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="38540" y="265" >770</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="38540" y1="235" x2="38540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="39040" y="265" >780</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="39040" y1="235" x2="39040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="39540" y="265" >790</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="39540" y1="235" x2="39540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="40040" y="265" >800</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="40040" y1="235" x2="40040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="40540" y="265" >810</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="40540" y1="235" x2="40540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="41040" y="265" >820</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="41040" y1="235" x2="41040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="41540" y="265" >830</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="41540" y1="235" x2="41540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="42040" y="265" >840</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="42040" y1="235" x2="42040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="42540" y="265" >850</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="42540" y1="235" x2="42540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="43040" y="265" >860</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="43040" y1="235" x2="43040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="43540" y="265" >870</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="43540" y1="235" x2="43540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="44040" y="265" >880</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="44040" y1="235" x2="44040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="44540" y="265" >890</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="44540" y1="235" x2="44540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="45040" y="265" >900</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="45040" y1="235" x2="45040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="45540" y="265" >910</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="45540" y1="235" x2="45540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="46040" y="265" >920</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="46040" y1="235" x2="46040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="46540" y="265" >930</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="46540" y1="235" x2="46540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="47040" y="265" >940</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="47040" y1="235" x2="47040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="47540" y="265" >950</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="47540" y1="235" x2="47540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="48040" y="265" >960</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="48040" y1="235" x2="48040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="48540" y="265" >970</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="48540" y1="235" x2="48540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="49040" y="265" >980</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="49040" y1="235" x2="49040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="49540" y="265" >990</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="49540" y1="235" x2="49540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="50040" y="265" >1000</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="50040" y1="235" x2="50040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="50540" y="265" >1010</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="50540" y1="235" x2="50540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="51040" y="265" >1020</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="51040" y1="235" x2="51040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="51540" y="265" >1030</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="51540" y1="235" x2="51540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="52040" y="265" >1040</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="52040" y1="235" x2="52040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="52540" y="265" >1050</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="52540" y1="235" x2="52540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="53040" y="265" >1060</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="53040" y1="235" x2="53040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="53540" y="265" >1070</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="53540" y1="235" x2="53540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="54040" y="265" >1080</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="54040" y1="235" x2="54040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="54540" y="265" >1090</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="54540" y1="235" x2="54540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="55040" y="265" >1100</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="55040" y1="235" x2="55040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="55540" y="265" >1110</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="55540" y1="235" x2="55540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="56040" y="265" >1120</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="56040" y1="235" x2="56040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="56540" y="265" >1130</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="56540" y1="235" x2="56540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="57040" y="265" >1140</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="57040" y1="235" x2="57040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="57540" y="265" >1150</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="57540" y1="235" x2="57540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="58040" y="265" >1160</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="58040" y1="235" x2="58040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="58540" y="265" >1170</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="58540" y1="235" x2="58540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="59040" y="265" >1180</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="59040" y1="235" x2="59040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="59540" y="265" >1190</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="59540" y1="235" x2="59540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="60040" y="265" >1200</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="60040" y1="235" x2="60040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="60540" y="265" >1210</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="60540" y1="235" x2="60540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="61040" y="265" >1220</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="61040" y1="235" x2="61040" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="61540" y="265" >1230</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="61540" y1="235" x2="61540" y2="240" id=""/>
+<text fill="#000000" stroke="#000000" stroke-width="0" font-size="14" font-family="serif" text-anchor="center" xml:space="preserve" font-weight="bold"  x="62040" y="265" >1240</text>
+
+<line fill="none" stroke="#000000" stroke-width="3"  x1="62040" y1="235" x2="62040" y2="240" id=""/>
+<line fill="none" stroke="#000000" stroke-width="3"  x1="40" y1="240" x2="1350" y2="240" id=""/>
+</svg>
