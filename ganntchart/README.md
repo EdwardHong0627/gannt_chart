@@ -23,6 +23,7 @@ result.add_job(job_name='J_1',
                starting_time=0, 
                processing_time=5)
 ```
+\
 * you can also assign the fill-color and stroke-color of jobs in Gannt chart by adding arg in the add job function as below:
 ```
 result.add_job(job_name='J_1', 
@@ -33,5 +34,6 @@ result.add_job(job_name='J_1',
                stroke= '#FF00FF')
 
 ```
+\
 * Finally, we can call save_to_file function to save our Gannt chart as a svg_file  
 `result.save_to_file(file_name='result')`
